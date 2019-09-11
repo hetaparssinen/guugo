@@ -14,3 +14,13 @@ $ git clone git@github.com:skyhood/duunitori5.git
 ```
 $ npm install bulma
 ```
+
+3. Build CSS test
+```
+$ npm run css-build
+```
+
+4. Watch for changes
+```
+$ npm start
+```
